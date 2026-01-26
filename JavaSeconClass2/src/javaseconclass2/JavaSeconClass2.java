@@ -23,6 +23,18 @@ public class JavaSeconClass2 {
         }
 
         System.out.println(minutes + minMassage   + second + " seconds");
+        
+        
+//         Scanner scanner = new Scanner(System.in);
+//        System.out.print("enter seconds: ");
+//
+//        int seconds = scanner.nextInt();
+//        int minutes = seconds / 60;
+//        int second = seconds % 60;
+//        System.out.println(minutes + " minutes " + second + " seconds");
+      
+        
+        
     }
     
 }
