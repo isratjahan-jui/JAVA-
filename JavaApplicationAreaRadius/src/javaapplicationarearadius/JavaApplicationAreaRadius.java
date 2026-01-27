@@ -11,6 +11,8 @@ public class JavaApplicationAreaRadius {
 
         area = (float) 3.1416 * radius * radius;
         System.out.println("Area of a circel is " + area);
+        
+        
 
     }
 }
