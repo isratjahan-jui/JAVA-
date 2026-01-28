@@ -14,9 +14,9 @@ public class UserNameMatchNextPass {
             System.out.print("enter your password:");
             String password = input.nextLine();
             if (password.equals("jk9P4")) {
-                System.out.println(" Welcome " + userName);
+                System.out.println(" Welcome " + userName.toUpperCase() + "!");
             } else {
-                System.out.println("Incorrect password. Try again.");
+                System.out.println("Incorrect password.Try again.");
             }
 
         } else {
@@ -24,4 +24,4 @@ public class UserNameMatchNextPass {
         }
     }
 
-    }
+}
