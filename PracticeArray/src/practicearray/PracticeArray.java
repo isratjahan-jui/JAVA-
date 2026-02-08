@@ -1,6 +1,4 @@
 
-
-
 package practicearray;
 
 import java.util.Arrays;
@@ -59,4 +57,7 @@ public class PracticeArray {
         double avg = sum / numbers.length;
         System.out.println("Avg number is " + avg);
     }
+
 }
+
+
