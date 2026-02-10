@@ -15,7 +15,7 @@ public class PracticeClassObject {
 
         System.out.println("Final Price: " + c.calculateFinalPrice(50, 10));
         System.out.println("Final Price: " + c.calculateFinalPrice(60, 20));
-        
+         
         
 //     -------AccountStatus file----  
 
