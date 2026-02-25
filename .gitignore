@@ -72,6 +72,9 @@
 /AccountBlanceDeposite/nbproject/private/
 /TryCatch/nbproject/private/
 /TryCatch/build/
+
+/ATM/nbproject/private/
+
 /TestAbstractClass/nbproject/private/
 /AjRobibarByHumaiunAhmed/nbproject/private/
 /AjRobibarByHumaiunAhmed/build/
@@ -83,8 +86,16 @@
 /ExamPracticeSequenceInteger/build/
 /ExamPracticeFactorial/nbproject/private/
 /ExamPracticeFactorial/build/
+
+
+/ExamJavaVehicle/nbproject/private/
+/ExamJavaVehicle/build/
+/ExamJavaFactorial/nbproject/private/
+/ExamJavaFactorial/build/
+
 /ArrayList/nbproject/private/
 /GenericClass/nbproject/private/
 /GenericClass/build/
 /POS/nbproject/private/
 /POS/build/
+
