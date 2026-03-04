@@ -11,7 +11,7 @@ public class ExamJavaFactorial {
         for(int i=1;i<=input;i++){
             factorial*=i;
         }
-        System.out.println("Factorial number "+factorial);
+        System.out.println("Factorial number is "+factorial);
         
     }
     
