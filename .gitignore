@@ -106,6 +106,7 @@
 /ReadFile/nbproject/private/
 /ReadFile/build/
 /BubbleSortArrayForeachLoop/nbproject/private/
+<<<<<<< HEAD
 /NumberPrime/nbproject/private/
 /TestVehicleTruck/nbproject/private/
 /TestVehicleTruck/build/
@@ -113,3 +114,8 @@
 /NumberIsPrime/nbproject/private/
 /NumberIsPrime/build/
 /Interface/nbproject/private/
+=======
+/MidExam3March/nbproject/private/
+/MidExam3March/build/
+>>>>>>> ffa20794bc4c5f1687d7387b0dd181ef858572bf
+/Stu/nbproject/private/
