@@ -6,8 +6,8 @@ package employee.dao;
 
 /**
  *
- * @author Admin
+ * @author HP
  */
-public class Arraylist {
+public class EmpDao {
     
 }
