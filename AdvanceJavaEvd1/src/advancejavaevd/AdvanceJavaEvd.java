@@ -24,8 +24,8 @@ public class AdvanceJavaEvd {
         createStudent("Emon", "Emon@gmail.com", 4000.00f);
         showAllStudnet();
         System.out.println("-----------------------------------------");
-        deleteStudnet(4);
-        deleteStudnet(3);
+//        deleteStudnet(4);
+//        deleteStudnet(3);
 
         showAllStudnet();
         System.out.println("-----------------------------------------");
