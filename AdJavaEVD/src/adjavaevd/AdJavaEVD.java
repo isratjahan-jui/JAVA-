@@ -87,7 +87,7 @@ public class AdJavaEVD {
     public static void updateEmployee(String name, float salary, String department, int id) {
         String updateSql = "update employee set name =?, salary = ?, department=? where id=?";
         try {
-            ps = getCon().prepareStatement(updateSql);
+    
 
             ps = getCon().prepareStatement(updateSql);
             ps.setString(1, name);
