@@ -135,6 +135,7 @@
 /AdvanceEmp/build/
 /AdJavaEVD/nbproject/private/
 /AdJavaEVD/build/
+<<<<<<< Updated upstream
 /JavaApplication12/nbproject/private/
 /AdJavaMidExam/nbproject/private/
 /AdJavaMidExam/build/
@@ -142,3 +143,8 @@
 /WebApplication1/build/
 /WebApplication2/nbproject/private/
 /WebApplication2/build/
+=======
+/AdJavaEvd2/nbproject/private/
+/WebApplication1/nbproject/private/
+/WebApplication1/build/
+>>>>>>> Stashed changes

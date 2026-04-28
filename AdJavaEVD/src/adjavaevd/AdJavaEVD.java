@@ -30,7 +30,7 @@ public class AdJavaEVD {
         System.out.println("-----------------------------------------");
     }
 
-    public static Connection getCon() throws SQLException {
+    public static Connection getCon(){
 
         String url = "jdbc:mysql://localhost:3306/practice";
         String user = "root";
@@ -40,7 +40,7 @@ public class AdJavaEVD {
             Class.forName("com.mysql.cj.jdbc.Driver");
 
             con = DriverManager.getConnection(url, user, password);
-        } catch (ClassNotFoundException ex) {
+        } catch (ClassNotFoundException | SQLException ex) {
             Logger.getLogger(AdJavaEVD.class.getName()).log(Level.SEVERE, null, ex);
         }
 
