@@ -106,18 +106,8 @@
 /ReadFile/nbproject/private/
 /ReadFile/build/
 /BubbleSortArrayForeachLoop/nbproject/private/
-<<<<<<< HEAD
-/NumberPrime/nbproject/private/
-/TestVehicleTruck/nbproject/private/
-/TestVehicleTruck/build/
-/NumberPrime/build/
-/NumberIsPrime/nbproject/private/
-/NumberIsPrime/build/
-/Interface/nbproject/private/
-=======
 /MidExam3March/nbproject/private/
 /MidExam3March/build/
->>>>>>> ffa20794bc4c5f1687d7387b0dd181ef858572bf
 /Stu/nbproject/private/
 /Employee/nbproject/private/
 /Employee_1/nbproject/private/
@@ -135,6 +125,7 @@
 /AdvanceEmp/build/
 /AdJavaEVD/nbproject/private/
 /AdJavaEVD/build/
+
 /JavaApplication12/nbproject/private/
 /AdJavaMidExam/nbproject/private/
 /AdJavaMidExam/build/
@@ -142,5 +133,8 @@
 /WebApplication1/build/
 /WebApplication2/nbproject/private/
 /WebApplication2/build/
-/JspEvd/nbproject/private/
-/JspEvd/build/
+
+/AdJavaEvd2/nbproject/private/
+/WebApplication1/nbproject/private/
+/WebApplication1/build/
+
